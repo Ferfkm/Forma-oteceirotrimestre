@@ -24,7 +24,8 @@ header {
 
 body {
     background: linear-gradient(to right, #741bc7 0%, #844a92 100%);
-    
+    align-items: center;
+     
 }
 
 .texto-principal {
@@ -55,8 +56,7 @@ body {
     border-style: dashed;
     margin-left: 190px;
     padding: 20px;
-    align-items: center;
-    
+   
 }
 .r{
     color: #D3D3D3;
