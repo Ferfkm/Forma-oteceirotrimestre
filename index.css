@@ -70,7 +70,7 @@ body {
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: 25px;
-    padding: 30px;
+    padding: 10px;
     text-shadow: 2px 2px #a81be9
    
 }
@@ -98,4 +98,5 @@ ul{
 .b{
     display: flex;
  flex-direction: row;
+ padding: 0.5%;
 }
