@@ -26,16 +26,10 @@ header {
 
 body {
     background: url(fundo.png);
-        width: 100%;
+    width: 100%;
      
 }
 
-.texto-principal {
-    margin-right: 10%; 
-    display: flex;
-    align-items: row;
-    
-}
 
 .div {
     color: #030303;
@@ -90,7 +84,7 @@ ul{
     font-size: 20px;
     margin-top: 20px;
     text-shadow: 2px 2px #0d0c0e;
-        background: rgb(116, 114, 114);
+    background: rgb(116, 114, 114);
     margin-left: 130px;
     margin-right: 110px;
 
@@ -98,5 +92,5 @@ ul{
 .b{
     display: flex;
  flex-direction: row;
- padding: 0.5%;
+ padding: 2%;
 }
