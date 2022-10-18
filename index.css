@@ -28,6 +28,7 @@ header {
 body {
     background: url(fundo.png);
         width: 100%;
+        display: inline-block;
      
 }
 
