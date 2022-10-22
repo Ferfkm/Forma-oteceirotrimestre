@@ -27,7 +27,7 @@ header {
 
 body {
     background: url(fundo.png);
-        width: 100%;
+    width:90%;margin: 0 auto;min-width:600px;max-width:2000px
         display: inline-block;
      
 }
