@@ -28,7 +28,7 @@ header {
 body {
     background: url(fundo.png);
     width:90%;margin: 0 auto;min-width:600px;max-width:2000px
-        display: inline-block;
+        
      
 }
 
@@ -41,7 +41,7 @@ body {
 
 .div {
     color: #030303;
-    width: 1200px;
+    width: 1100px;
     font-size: 20px;
     margin-right: 10%;
     margin-left: 5%;
@@ -52,7 +52,7 @@ body {
 }
 .lista{
     color: #030303;
-    width: 1200px;
+    width: 1100px;
     font-size: 20px;
     border-style: dashed;
     margin-left: 5%;
@@ -84,7 +84,7 @@ ul{
     margin-left: 10px;
 }
 .f{
-    width: 1200px;
+    width: 1100px;
     color: rgb(241, 233, 233);
     text-align: center;
     padding: 10px;
@@ -107,7 +107,7 @@ ul{
 .carrossel ul{
     display: flex;
     list-style: none;
-    width: 1000px;
+    width: 1100px;
     height: 250px;
     gap: 30px;
     
