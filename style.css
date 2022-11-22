@@ -1,11 +1,36 @@
 body {
     background-color:#1C1C1C;
 }
-
-.texto-principal {
-    margin-right: 20%; 
+header{
+  background-color: white;
+  padding: 20px 0;
+}
+#logoimg{
+  width: 20%;
 }
 
+nav li{
+  display: inline;
+  font-size: 30px;
+  margin: 0 0 0 40px;
+}
+nav a{
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 90%;
+  color: black;
+}
+.texto-principal {
+    margin-right: 20%;
+    text-align: center;
+    background-color: red;
+}
+.menu{
+  border: 10px groove red;
+  margin-left: 30%;
+  margin-right: 30%
+}
 h1 {
     color: #D3D3D3;
     text-align: center;
@@ -30,7 +55,7 @@ p {
 	text-decoration: underline;
 }
 .texto-principal {
-    margin-right: 20%; 
+    margin-right: 20%;
 }
 
 h1 {
@@ -55,4 +80,5 @@ p {
 .itens {
 	color: blue;
 	text-decoration: underline;
+
 }
